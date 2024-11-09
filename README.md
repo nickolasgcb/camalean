@@ -27,9 +27,13 @@ user:maria.lucia@camalearn.com
 senha:@Aasjaapin18028hO
 
 usuário aluno:
-mariana.rezende@camalean.com
+mariana.rezende@camalearn.com
 senha:@ASjbkjbakjbas9817
 
+
+link git team server da nuvem mendix:https://git.api.mendix.com/99af5bb1-3288-4b82-b8f7-f70bc50a91bf.git
+link do portal mendix:https://sprintr.home.mendix.com/link/buzz/99af5bb1-3288-4b82-b8f7-f70bc50a91bf
+Caso desejem ter acesso falar com nicko.vitor@gmail.com ou 81984692520
 
 
 
